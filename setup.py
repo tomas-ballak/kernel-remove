@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='kernel-remove',
-    version='1.0',
+    version='0.1',
     packages=['kernel-remove'],
     install_requires=['inquirer'],
     entry_points={
