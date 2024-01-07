@@ -1,5 +1,0 @@
-[kernel-remove]
-name=Kernel removal repository
-baseurl=https://github.com/tomas-ballak/kernel-remove/archive/refs/tags/0.2.tar.gz
-enabled=1
-gpgcheck=0
